@@ -6,10 +6,8 @@ Projeto desenvolvido para a atividade de recepção de calouros, simulando um ca
 
 Abaixo, a visualização das interfaces desenvolvidas para o projeto:
 
-![Home](https://raw.githubusercontent.com/devlucasmoura/cartao-de-identificacao-ionic/main/src/assets/iphone13home.png)
 
-<img src="src/assets/iphone13home.png" width="300"/>
-<img src="src/assets/iphone13sobre.png" width="300"/>
+<img src="src/assets/iphone13home.png" width="300"/><img src="src/assets/iphone13sobre.png" width="300"/>
 
 
 ##  Funcionalidades
