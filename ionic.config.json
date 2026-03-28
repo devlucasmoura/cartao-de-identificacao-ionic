@@ -1,0 +1,7 @@
+{
+  "name": "meu-projeto-cartao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
